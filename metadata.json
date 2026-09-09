@@ -1,0 +1,10 @@
+{
+  "name": "Remix CampusStay - College Accommodation \u0026 Roommate Finder",
+  "description": "Mobile college accommodation platform featuring campus-centric stay \u0026 hotel listings, automated AI roommate matching, verified student leases, and instant property booking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
